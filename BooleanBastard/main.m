@@ -137,7 +137,7 @@ int main(int argc, const char * argv[]) {
             
             if (level1Score >= 2) {
                 sleep(2);
-                printf("\n\n      Satan dissapears in a tizzy and you proceed");
+                printf("\n\n      Satan disappears in a tizzy and you proceed");
                 printf("\n      on your quest for the ultimate Friday Night!");
             } else {
                 sleep(2);
@@ -236,7 +236,7 @@ int main(int argc, const char * argv[]) {
                     printf("\n      proceed to SoHo. ");
                     
                     sleep(11);
-                    printf("\n\n     You walk into the gorgeous loft and see %s ",
+                    printf("\n\n      You walk into the gorgeous loft and see %s ",
                            likeToMeet);
                     printf("\n      out of the corner of your eye! You walk up and ");
                     printf("\n      pitch your latest and greatest app to %s, ",
